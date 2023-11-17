@@ -4,5 +4,6 @@
         <page name='First page'/>
         <page name='SwiftUI Example'/>
         <page name='Chapter 5'/>
+        <page name='Chapter 6'/>
     </pages>
 </playground>
